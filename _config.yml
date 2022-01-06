@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Fatemeh sadat Bagheri
+description: I'm a student of Computer Engineering at IUST. I enjoy learning new things. I hope you enjoy my website.
 url: https://vszhub.github.io
-avatar: /avatar.jpeg
+avatar: /bio-photo.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /background.jpg
 
 # Gems
 plugins:
